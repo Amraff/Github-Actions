@@ -4,8 +4,8 @@ on:
   - push
 
 jobs: 
-  name: RAff-Jomacs
-    first_job: 
+    first_job:
+        name: Raphew-Jomacs 
         runs-on: ubuntu-latest
         steps:
             - name: First Message
